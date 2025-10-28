@@ -9,7 +9,7 @@ To write a python program for creating Chat using TCP Sockets Links.
 4. Send and receive the message using the send function in socket.
 ## PROGRAM
 
-Developed by : **RAVIPRSATH K**
+Developed by : **RAVIPRASATH K**
 
 Reg no : **212224230225**
 
